@@ -2,7 +2,7 @@
 import { useState, useEffect, useRef } from "react";
 import { NavLink, useNavigate } from "react-router-dom";
 import logos from "../imgs/vite.png";
-import "./navbar.css";
+import "./Navbar.css";
 
 const API_KEY = "c3c59c2805e454036ec8468615bcd11c";
 
