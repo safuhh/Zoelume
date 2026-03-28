@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import "./banner.css";
+import "./Banner.css";
 import Navbar from "../Navbar/Navbar";
 import MovieList from "../../MovieList";
 import Footer from "../../Footer";
