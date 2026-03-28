@@ -1,4 +1,4 @@
-import { Routes, Route } from "react-router-dom"; // ✅ import Route too
+import { Routes, Route } from "react-router-dom"; 
 import Banner from "./Component/banner/Banner";
 import Login from "./Component/Login";
 import Register from "./Component/Register";
